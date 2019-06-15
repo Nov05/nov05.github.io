@@ -25,7 +25,7 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about inserting an image?
+How about a picture?
 
 ![github_logos](https://maxcdn.icons8.com/app/uploads/2017/02/Github-Icon-1.png)
 

@@ -9,13 +9,13 @@ tags: [tips]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+You can write regular [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet") here and Jekyll will automatically convert it to a nice webpage.
 
-**Here is some bold text**
+**Here is some bold text**  
+*Here is some italic text*  
+#### Here is a level 4 heading  
 
-## Here is a secondary heading
-
-Here's a useless table:
+Here is a useless table:
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -29,7 +29,7 @@ How about a picture?
 
 ![github_logos](https://maxcdn.icons8.com/app/uploads/2017/02/Github-Icon-1.png)
 
-Here's a code chunk:
+Here is a code chunk:
 
 ~~~
 var foo = function(x) {
@@ -38,7 +38,7 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same code with syntax highlighting:
+Here is the same code with syntax highlighting:
 
 ```javascript
 var foo = function(x) {
@@ -47,7 +47,7 @@ var foo = function(x) {
 foo(3)
 ```
 
-And here is the same code yet again but with line numbers:
+Here is the same code yet again but with line numbers:
 
 {% highlight javascript linenos %}
 var foo = function(x) {
@@ -60,17 +60,17 @@ foo(3)
 
 You can add notification, warning and error boxes like this:
 
-### Notification
+#### Notification
 
 {: .box-note}
 **Note:** This is a notification box.
 
-### Warning
+#### Warning
 
 {: .box-warning}
 **Warning:** This is a warning box.
 
-### Error
+#### Error
 
 {: .box-error}
 **Error:** This is an error box.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Markdown the Posts
-subtitle: Each post could have a subtitle
+title: Markdown Your Posts
+subtitle: Each post could also have a subtitle
 bigimg: /img/stars.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -57,6 +57,7 @@ foo(3)
 {% endhighlight %}
 
 ## Boxes
+
 You can add notification, warning and error boxes like this:
 
 ### Notification

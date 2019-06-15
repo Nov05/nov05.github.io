@@ -18,7 +18,6 @@ You can write regular [markdown](https://github.com/adam-p/markdown-here/wiki/Ma
 #### Here is a level 4 heading.  
 
 Here is a useless table.  
-
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
 | Five | Six | Four |
@@ -27,11 +26,9 @@ Here is a useless table.
 | Two | Three | One |
 
 How about a picture?  
-
 ![github_logos](https://maxcdn.icons8.com/app/uploads/2017/02/Github-Icon-1.png)
 
 Here is a code chunk.  
-
 ~~~
 var foo = function(x) {
   return(x + 5);
@@ -40,7 +37,6 @@ foo(3)
 ~~~
 
 Here is the same code with syntax highlighting.  
-
 ```javascript
 var foo = function(x) {
   return(x + 5);
@@ -49,7 +45,6 @@ foo(3)
 ```
 
 Here is the same code yet again but with line numbers.  
-
 {% highlight javascript linenos %}
 var foo = function(x) {
   return(x + 5);

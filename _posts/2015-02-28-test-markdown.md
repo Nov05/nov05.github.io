@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-bigimg: /img/path.jpg
+title: Markdown the Posts
+subtitle: Each post could have a subtitle
+bigimg: /img/stars.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [tips]
 comments: true
 ---
 
@@ -25,9 +25,9 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
+How about inserting an image?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![github_logos](https://maxcdn.icons8.com/app/uploads/2017/02/Github-Icon-1.png)
 
 Here's a code chunk:
 

@@ -13,7 +13,7 @@ You can write regular [markdown](https://github.com/adam-p/markdown-here/wiki/Ma
 
 **Here is some bold text.**  
 *Here is some italic text.*  
-~~Here is some strickthough text.
+~~Here is some strickthough text.~~
 
 #### Here is a level 4 heading.  
 
@@ -52,19 +52,12 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-You can add notification, warning and error boxes like this.
-
-#### Notification
-
+You can add notification, warning and error boxes like this.  
 {: .box-note}
-**Note:** This is a notification box.
-
-#### Warning
+**Note:** This is a notification box.  
 
 {: .box-warning}
-**Warning:** This is a warning box.
-
-#### Error
+**Warning:** This is a warning box.  
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** This is an error box.  

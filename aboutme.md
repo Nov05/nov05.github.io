@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Home Sapiens
+subtitle: Homo Sapiens
 ---
 
 ### My Name

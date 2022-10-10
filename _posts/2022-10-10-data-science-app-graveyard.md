@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Science App Graveyard
-subtitle: Heroku upgraded the prices as well as the products
+subtitle: Heroku upgraded the products as well as the prices
 bigimg: /img/stars.jpg
 tags: [nostalgia]
 comments: true

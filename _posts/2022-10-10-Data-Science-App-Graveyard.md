@@ -5,7 +5,7 @@ subtitle: Heroku upgraded the prices as well as the products
 bigimg: /img/stars.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: []
+tags: [nostalgia]
 comments: true
 ---
 

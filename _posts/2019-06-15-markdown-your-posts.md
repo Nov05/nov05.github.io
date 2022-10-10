@@ -28,7 +28,9 @@ Here is a useless table.
 
 How about a picture?  
 
-![github_logos](https://github.com/Nov05/nov05.github.io/blob/master/img/2019-06-15-markdown-your-posts/github-logo-icon-0.png?raw=true){ width=25% }
+![github_logos](https://github.com/Nov05/nov05.github.io/blob/master/img/2019-06-15-markdown-your-posts/github-logo-icon-0.png?raw=true)
+
+<img src="https://github.com/Nov05/nov05.github.io/blob/master/img/2019-06-15-markdown-your-posts/github-logo-icon-0.png?raw=true" width="200" height="200"/>
 
 Here is a code chunk.  
 ~~~

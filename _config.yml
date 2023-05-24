@@ -109,7 +109,8 @@ url-pretty: "Nov05"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-142119801-1"
+#google_analytics: "UA-142119801-1" ## obsoleted on 2023-05-24
+google_analytics: "G-EK54RN2YV8"
 
 # Google Tag Manager ID
 #gtm: ""
